@@ -32,8 +32,7 @@ Initially, we convert AC voltage to DC to power the motor. We design the magnets
 
 ### Diagram and Explanation
 #### Diagram
-![Diagram](https://github.com/user-attachments/assets/b5c5f00d-8665-4c63-810f-a59e4f7a580c)
-![Diagram](https://github.com/user-attachments/assets/423289cb-e5de-4309-9f76-04b3ebb4b3e3)
+![Diagram](https://github.com/user-attachments/assets/5a9fb4be-cbb8-4a3b-8aa1-327d6ca2a6db)
 
 #### Working and Explanation
 The working principle of a DC motor revolves around the interaction between magnetic fields and electrical currents to produce mechanical motion. Key steps include:
@@ -44,7 +43,8 @@ The working principle of a DC motor revolves around the interaction between magn
 5. **Electromagnetic Interaction**: Generating torque to rotate the rotor and perform work.
 
 ### Project Demonstration
-![Motor Demonstration](path_to_your_demonstration.png)
+![Motor Demonstration](https://github.com/user-attachments/assets/423289cb-e5de-4309-9f76-04b3ebb4b3e3)
+![Motor Demonstration](https://github.com/user-attachments/assets/b5c5f00d-8665-4c63-810f-a59e4f7a580c)
 
 ### Voltage Control Testing
 The voltage supplied to the motor increases incrementally from 9.5 volts to 14.1 volts, showing a direct correlation between voltage, current, and speed. 
