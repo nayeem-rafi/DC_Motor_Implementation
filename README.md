@@ -32,7 +32,7 @@ Initially, we convert AC voltage to DC to power the motor. We design the magnets
 
 ### Diagram and Explanation
 #### Diagram
-![Diagram](https://github.com/user-attachments/assets/5a9fb4be-cbb8-4a3b-8aa1-327d6ca2a6db)
+![Diagram](https://github.com/user-attachments/assets/c5734796-4e11-4c05-931c-1ce13ff4ec74)
 
 #### Working and Explanation
 The working principle of a DC motor revolves around the interaction between magnetic fields and electrical currents to produce mechanical motion. Key steps include:
@@ -93,6 +93,8 @@ The total cost of the project is estimated to be around 990 BDT, including compo
 | Enameled Copper Winding Wire           | 50          |
 | Aluminium Foil and Aluminium Stick     | 10          |
 | **Total**                              | **990**     |
+
+![Graph](https://github.com/user-attachments/assets/5a9fb4be-cbb8-4a3b-8aa1-327d6ca2a6db)
 
 ### Conclusion
 In conclusion, the construction and testing of the DC motor showcased the fundamental principles of electromechanical engineering in action. Through the assembly process, we gained insights into the interaction between magnetic fields and electrical currents. Despite its limitations, the DC motor remains a versatile and indispensable component in numerous devices and systems.
